@@ -1,0 +1,276 @@
+[
+    {
+      "name": "Orange",
+      "price": 0.6,
+      "category": "Fruit",
+      "color": "Orange",
+      "weight": 0.3
+    },
+    {
+      "name": "Grapes",
+      "price": 2.5,
+      "category": "Fruit",
+      "color": "Purple",
+      "weight": 0.5
+    },
+    {
+      "name": "Strawberry",
+      "price": 3.0,
+      "category": "Fruit",
+      "color": "Red",
+      "weight": 0.2
+    },
+    {
+      "name": "Blueberry",
+      "price": 4.0,
+      "category": "Fruit",
+      "color": "Blue",
+      "weight": 0.1
+    },
+    {
+      "name": "Pineapple",
+      "price": 2.0,
+      "category": "Fruit",
+      "color": "Yellow",
+      "weight": 1.5
+    },
+    {
+      "name": "Spinach",
+      "price": 1.2,
+      "category": "Vegetable",
+      "color": "Green",
+      "weight": 0.3
+    },
+    {
+      "name": "Lettuce",
+      "price": 1.0,
+      "category": "Vegetable",
+      "color": "Green",
+      "weight": 0.4
+    },
+    {
+      "name": "Cucumber",
+      "price": 0.5,
+      "category": "Vegetable",
+      "color": "Green",
+      "weight": 0.6
+    },
+    {
+      "name": "Broccoli",
+      "price": 1.5,
+      "category": "Vegetable",
+      "color": "Green",
+      "weight": 0.7
+    },
+    {
+      "name": "Cauliflower",
+      "price": 1.8,
+      "category": "Vegetable",
+      "color": "White",
+      "weight": 0.8
+    },
+    {
+      "name": "Yogurt",
+      "price": 0.9,
+      "category": "Dairy",
+      "color": "White",
+      "weight": 0.5
+    },
+    {
+      "name": "Butter",
+      "price": 2.0,
+      "category": "Dairy",
+      "color": "Yellow",
+      "weight": 0.4
+    },
+    {
+      "name": "Ice Cream",
+      "price": 5.0,
+      "category": "Dairy",
+      "color": "Various",
+      "weight": 0.7
+    },
+    {
+      "name": "Sausage",
+      "price": 4.5,
+      "category": "Meat",
+      "color": "Red",
+      "weight": 0.5
+    },
+    {
+      "name": "Beef",
+      "price": 10.0,
+      "category": "Meat",
+      "color": "Red",
+      "weight": 1.0
+    },
+    {
+      "name": "Pork",
+      "price": 7.0,
+      "category": "Meat",
+      "color": "Pink",
+      "weight": 1.0
+    },
+    {
+      "name": "Fish",
+      "price": 8.0,
+      "category": "Meat",
+      "color": "Silver",
+      "weight": 1.0
+    },
+    {
+      "name": "Shrimp",
+      "price": 15.0,
+      "category": "Meat",
+      "color": "Pink",
+      "weight": 0.5
+    },
+    {
+      "name": "Almonds",
+      "price": 6.0,
+      "category": "Nuts",
+      "color": "Brown",
+      "weight": 0.3
+    },
+    {
+      "name": "Walnuts",
+      "price": 5.0,
+      "category": "Nuts",
+      "color": "Brown",
+      "weight": 0.4
+    },
+    {
+      "name": "Peanut Butter",
+      "price": 3.0,
+      "category": "Spread",
+      "color": "Brown",
+      "weight": 0.5
+    },
+    {
+      "name": "Jam",
+      "price": 2.5,
+      "category": "Spread",
+      "color": "Red",
+      "weight": 0.5
+    },
+    {
+      "name": "Honey",
+      "price": 4.0,
+      "category": "Spread",
+      "color": "Golden",
+      "weight": 0.5
+    },
+    {
+      "name": "Rice",
+      "price": 1.0,
+      "category": "Grains",
+      "color": "White",
+      "weight": 1.0
+    },
+    {
+      "name": "Pasta",
+      "price": 1.2,
+      "category": "Grains",
+      "color": "Yellow",
+      "weight": 0.5
+    },
+    {
+      "name": "Flour",
+      "price": 0.8,
+      "category": "Grains",
+      "color": "White",
+      "weight": 1.0
+    },
+    {
+      "name": "Sugar",
+      "price": 0.5,
+      "category": "Grains",
+      "color": "White",
+      "weight": 1.0
+    },
+    {
+      "name": "Salt",
+      "price": 0.3,
+      "category": "Grains",
+      "color": "White",
+      "weight": 1.0
+    },
+    {
+      "name": "Pepper",
+      "price": 2.0,
+      "category": "Spices",
+      "color": "Black",
+      "weight": 0.2
+    },
+    {
+      "name": "Cinnamon",
+      "price": 2.5,
+      "category": "Spices",
+      "color": "Brown",
+      "weight": 0.2
+    },
+    {
+      "name": "Basil",
+      "price": 1.5,
+      "category": "Spices",
+      "color": "Green",
+      "weight": 0.1
+    },
+    {
+      "name": "Oregano",
+      "price": 1.5,
+      "category": "Spices",
+      "color": "Green",
+      "weight": 0.1
+    },
+    {
+      "name": "Cereal",
+      "price": 3.0,
+      "category": "Breakfast",
+      "color": "Various",
+      "weight": 0.5
+    },
+    {
+      "name": "Oats",
+      "price": 2.0,
+      "category": "Breakfast",
+      "color": "Brown",
+      "weight": 0.5
+    },
+    {
+      "name": "Juice",
+      "price": 2.5,
+      "category": "Beverage",
+      "color": "Various",
+      "weight": 1.0
+    },
+    {
+      "name": "Coffee",
+      "price": 10.0,
+      "category": "Beverage",
+      "color": "Brown",
+      "weight": 0.5
+    },
+    {
+      "name": "Tea",
+      "price": 5.0,
+      "category": "Beverage",
+      "color": "Green",
+      "weight": 0.2
+    },
+    {
+      "name": "Soda",
+      "price": 1.5,
+      "category": "Beverage",
+      "color": "Various",
+      "weight": 1.0
+    },
+    {
+      "name": "Water",
+      "price": 0.5,
+      "category": "Beverage",
+      "color": "Clear",
+      "weight": 1.0
+    }
+  ]
+  

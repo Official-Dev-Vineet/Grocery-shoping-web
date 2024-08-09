@@ -1,0 +1,44 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  text-align: center;
+}
+.inputBox {
+  position: relative;
+}
+.resultBox {
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.451);
+  color: #dfdfdf;
+  border-top: none;
+  font-weight: 500;
+  padding: 16px;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.308);
+  z-index: 9;
+}
+
+table{
+  border: 1px solid #dfdfdf;
+  width: max-content;
+  text-align: left;
+  margin:1rem  auto;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+}
